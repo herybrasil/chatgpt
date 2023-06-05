@@ -1,0 +1,43 @@
+
+
+body{
+    background-color: cornflowerblue;
+    margin-top: 30px;
+}
+
+#form-question{
+    margin-top: 5vh;
+}
+
+.navlink{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+
+ul li {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+ul li a {
+    color: aquamarine;
+    display: flex;
+   
+    padding-right: 10rem;
+    text-transform: none;
+    cursor: pointer;
+    font-weight: 600;
+
+}
+.navbar{
+    border-radius: 30px;
+    height: 80px;
+}
