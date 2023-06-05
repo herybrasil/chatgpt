@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const connection = require("./database/database");
 const Pergunta = require("./database/Pergunta");
 const Resposta = require("./database/Resposta");
-const PORT = 3000;
+const PORT = 8080;
 
 
 //CONEXAO COM BANCO DE DADOS 
