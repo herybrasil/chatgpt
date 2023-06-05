@@ -97,6 +97,6 @@ app.get("/questionme/:id", (req,res)=> {
 
 
 //SERVIDOR
-app.listen(3000,( )=>{
+app.listen(8080,( )=>{
     console.log("Servidor rodando na porta " + PORT);
 });
